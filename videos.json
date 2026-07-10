@@ -13,4 +13,17 @@
       }
     ]
   }
-]
+
+  {
+    "id": "friends_02",
+    "titulo": "Rachel 2 Helps Chandler Find His Wedding Tuxedo",
+    "categoria": "musicas",
+    "youtubeId": "vqqMTqd7BRE",
+    "frases": [
+      {
+        "inicio": 10,
+        "fim": 17,
+        "textoIngles": "Hello, how are you?",
+        "textoPortugues": "Olá, como vai você?"
+      }
+
