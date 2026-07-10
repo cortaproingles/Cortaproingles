@@ -40,5 +40,20 @@
         "textoPortugues": "Olá, como vai você?"
       }
     ]
+  },
+  
+  {
+    "id": "friends_04",
+    "titulo": "Rachel3 Helps Chandler Find His Wedding Tuxedo",
+    "categoria": "ia",
+    "youtubeId": "VwM6-Xk",
+    "frases": [
+      {
+        "inicio": 15,
+        "fim": 20,
+        "textoIngles": "Hello, how are you?",
+        "textoPortugues": "Olá, como vai você?"
+      }
+    ]
   }
 ]
